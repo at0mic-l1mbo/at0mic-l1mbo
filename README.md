@@ -1,69 +1,30 @@
-<div align="center">
-   <a href="https://www.linkedin.com/in/augustoe/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-   </a>
-</div>
+## 💜 My name is {Augusto Estevão} and I'm from 🇧🇷 Brazil.exe!
 
-###
+🔭 I’m currently looking for cybersecurity jobs in Blue team or Red team like (NOC, SOC, Network manager) and I'm doing Desec Profissional Pentest course</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=at0mic-l1mbo.at0mic-l1mbo&"  />
-</div>
+💬 I'm currently immersed in the fascinating world of digital security! I'm currently enrolled in the Professional Pentest program at DESEC, where I've been absorbing solid knowledge in network concepts, analysis, and monitoring, delving into topics like HTTP/TCP/UDP. <br></br>On my journey, I've developed intriguing projects, such as an HTTP Parser in Rust and a Network Bytes Analyzer in the same language. <br></br> I'm truly excited about what the field of digital security has to offer, and I'm always on the lookout for stimulating challenges. Whether you're passionate about this field or just curious about what I do, feel free to get in touch! I'm open to questions, discussions, or collaborations on interesting projects. Let's explore together the mysteries of cybersecurity!
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🚀 My Skills
 
-###
+<code><img height="32" src="https://skillicons.dev/icons?i=rust" alt="c"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=c" alt="Javascript"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=linux" alt="Linux"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=php" alt="PHP"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=bash" alt="Bash"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=powershell" alt="Powershell"/></code>
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
+---
 
-<p align="left">I'm Augusto Estevão from  🇧🇷 Brazil.exe<br><br>- 🔭 I’m currently looking for cybersecurity jobs in Blue team or Red team like (NOC, SOC, Network manager)<br>- 📚 I'm currently learning Rust, powershell and some cybersec concepts.</p>
+## ⭐ GitHub Stats
 
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=at0mic-l1mbo&show_icons=true)
 
-<h3 align="left">🛠 Language and tools</h3>
 
-###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-</div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=at0mic-l1mbo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/at0mic-l1mbo/at0mic-l1mbo/output/snake.svg" alt="Snake animation" />
-
-###
