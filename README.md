@@ -7,7 +7,7 @@
 --- 
 ## Get in touch!
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augustoe/)](https://www.linkedin.com/in/augustoe/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augustoe/)](https://www.linkedin.com/in/augustoe/)
 
 ---
 
