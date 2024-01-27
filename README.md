@@ -8,8 +8,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augustoe/)](https://www.linkedin.com/in/augustoe/)<br></br>
 
----
-
 ## 🚀 My Skills
 
 <code><img height="32" src="https://skillicons.dev/icons?i=rust" alt="c"/></code>
@@ -20,10 +18,8 @@
 <code><img height="32" src="https://skillicons.dev/icons?i=php" alt="PHP"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=bash" alt="Bash"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=powershell" alt="Powershell"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=powershell" alt="Powershell"/></code><br></br>
 
-
----
 
 ## ⭐ GitHub Stats
 
