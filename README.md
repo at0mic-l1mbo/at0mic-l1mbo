@@ -2,7 +2,7 @@
 
 🔭 I’m currently looking for cybersecurity jobs in Blue team or Red team like or Network associate jobs like (NOC, SOC, Network manager) and I'm doing Desec Profissional Pentest course</p>
 
-💬 Systems Analyst with experience in Full-Stack development, combining technical programming <b>skills with a focus on information security</b>. I have strong knowledge in web programming, in addition to solid skills acquired with the CompTIA Security+ certification, such as Risk Management, Incident Response and Regulatory Compliance. I'm looking for opportunities as a junior security analyst.
+💬 Systems Analyst with experience in Full-Stack development, combining technical programming <b>skills with a focus on information security</b>. I have strong knowledge in programming, in addition to solid skills acquired with the CompTIA Security+ certification, such as Risk Management, Incident Response and Regulatory Compliance. I'm looking for opportunities as a junior security analyst.
 <br></br>
 ## 📮 Get in touch!
 
