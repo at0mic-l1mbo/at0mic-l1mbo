@@ -41,6 +41,7 @@ I believe in a hands-on approach to learning, constantly bridging the gap betwee
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20Certified-EA2027?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/b40f98ed-44b3-4aa5-ae35-7c3ae0994af7)
 
 </br>
+
 # Let's Connect!
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augustoe/)](https://www.linkedin.com/in/augustoe/)
 
