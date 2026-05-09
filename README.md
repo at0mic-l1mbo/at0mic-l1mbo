@@ -32,8 +32,11 @@ I believe in a hands-on approach to learning, constantly bridging the gap betwee
 <code><img height="32" src="https://skillicons.dev/icons?i=grafana" alt="Grafana"/></code>
 </br>
 
+</br>
+
 ## Featured Projects
 *   [**SOC Homelab: Wazuh & Windows Server 2025**](#) - Deployment of a complete SIEM architecture for endpoint monitoring, threat detection, and vulnerability management. *(Add link to repo)*
+
 </br>
 
 # Certifications
