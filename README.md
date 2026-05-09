@@ -6,9 +6,13 @@ I am a cybersecurity professional with solid foundation in IT infrastructure, ne
 
 I believe in a hands-on approach to learning, constantly bridging the gap between theoretical knowledge and real-world application through homelab environments and scripting.
 
+</br>
+
 # Current Focus
 *   **Building & Simulating:** Architecting a SOC Homelab utilizing Wazuh (SIEM/XDR) to monitor Windows Server environments, implement File Integrity Monitoring (FIM), and analyze attack telemetry.
 *   **Leveling Up:** Expanding practical defensive skills and targeting hands-on certifications in the SOC/Blue Team domain.
+
+</br>
 
 # Tech Stack & Tools
 
@@ -26,6 +30,7 @@ I believe in a hands-on approach to learning, constantly bridging the gap betwee
 <code><img height="32" src="https://skillicons.dev/icons?i=windows" alt="Windows"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=docker" alt="Docker"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=grafana" alt="Grafana"/></code>
+</br>
 
 ## Featured Projects
 *   [**SOC Homelab: Wazuh & Windows Server 2025**](#) - Deployment of a complete SIEM architecture for endpoint monitoring, threat detection, and vulnerability management. *(Add link to repo)*
@@ -35,6 +40,7 @@ I believe in a hands-on approach to learning, constantly bridging the gap betwee
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20Certified-EA2027?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/b40f98ed-44b3-4aa5-ae35-7c3ae0994af7)
 
+</br>
 # Let's Connect!
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augustoe/)](https://www.linkedin.com/in/augustoe/)
 
