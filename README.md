@@ -30,6 +30,11 @@ I believe in a hands-on approach to learning, constantly bridging the gap betwee
 ### 📂 Featured Projects
 *   [**SOC Homelab: Wazuh & Windows Server 2025**](#) - Deployment of a complete SIEM architecture for endpoint monitoring, threat detection, and vulnerability management. *(Add link to repo)*
 
+
+### 🏅 Certifications
+
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20Certified-EA2027?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/b40f98ed-44b3-4aa5-ae35-7c3ae0994af7)
+
 ### 📮 Let's Connect!
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augustoe/)](https://www.linkedin.com/in/augustoe/)
 
