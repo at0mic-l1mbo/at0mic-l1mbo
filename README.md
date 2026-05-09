@@ -8,7 +8,6 @@ I believe in a hands-on approach to learning, constantly bridging the gap betwee
 
 ### 🎯 Current Focus
 *   **Building & Simulating:** Architecting a SOC Homelab utilizing Wazuh (SIEM/XDR) to monitor Windows Server environments, implement File Integrity Monitoring (FIM), and analyze attack telemetry.
-*   **Automating:** Leveraging **Python** to build data dashboards and automate daily technical workflows.
 *   **Leveling Up:** Expanding practical defensive skills and targeting hands-on certifications in the SOC/Blue Team domain.
 
 ### 🛠️ Tech Stack & Tools
